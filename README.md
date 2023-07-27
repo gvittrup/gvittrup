@@ -10,7 +10,7 @@ I am a self-driven programmer and designer who recently graduated from the Unive
 
   <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
-         <img alt="LinkedIn" title="Follow my LinkedIn account!" src="https://custom-icon-badges.demolab.com/badge/-FOLLOW%20-?&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=white&style=for-the-badge&labelColor=0A66C2"/></a> 
+         <img alt="LinkedIn" title="Follow my LinkedIn account!" src="https://custom-icon-badges.demolab.com/badge/-FOLLOW%20-?color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=white&style=for-the-badge&labelColor=0A66C2"/></a> 
    </p>
 
 
