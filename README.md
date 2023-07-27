@@ -9,11 +9,11 @@
 I am a self-driven programmer and designer who recently graduated from the University of Idaho with a Bachelor of Science in Virtual Technology & Design and am now pursuing my second one in Computer Science at Boise State University. I've recently spent my free time working on various different projects all the way from game developing in Unity to building serverless web applications and deploying them through AWS! Once I graduate in the Spring of 2024, I plan to continue onward towards my Masters degree in Computer Science. My end goal is to one day own my own company that provides business-to-business solutions with emphasis on information systems and security. Feel free to follow any of my accounts to stay connected and see my growth and development :) 
 
   <p align="left">
-      <a href="https://www.instagram.com/gunnar.vittrup/?next=%2F">
-         <img alt="LinkedIn" title="Follow my Instagram account!" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
       <a href="https://www.linkedin.com/in/gvittrup/">
+         <img alt="LinkedIn" title="Follow my Instagram account!" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+      <a href="https://www.instagram.com/gunnar.vittrup/?next=%2F">
          <img alt="LinkedIn" title="Follow my LinkedIn account!" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-      <a href="https://www.youtube.com/@ChicVitt/featured">
+      <a href="https://www.youtube.com/channel/UCjslMHkIk-woewCF6EJ84pQ">
          <img alt="LinkedIn" title="Follow my YouTube account!" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a> 
    </p>
 
