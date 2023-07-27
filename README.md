@@ -56,7 +56,7 @@ I am a self-driven programmer and designer who recently graduated from the Unive
     
   <p align="center">
     <img align="center" alt="Android Studio" width="50px" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-plain.svg" />
-    <img align="center" alt="After Effects" width="50px" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
+    <img align="center" alt="After Effects" width="50px" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg"" />
     <img align="center" alt="Premiere Pro" width="50px" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" />
     <img align="center" alt="Photoshop" width="50px" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
     <img align="center" alt="Blender" width="50px" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
