@@ -2,6 +2,20 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=357381&center=true&width=435&lines=Web+%26+App+Developer;Virtual+Designer;Stop+by+and+say+hi+%3A)" alt="Typing SVG" /></a>
 </p>
 
+#
+
+<h2>Coding Journey</h2>
+
+I am a self-driven programmer and designer who recently graduated from the University of Idaho with a Bachelor of Science in Virtual Technology & Design and am now pursuing my second one in Computer Science at Boise State University. I've recently spent my free time working on various different projects all the way from game developing in Unity to building serverless web applications and deploying them through AWS! Once I graduate in the Spring of 2024, I plan to continue onward towards my Masters degree in Computer Science. My end goal is to one day own my own company that provides business-to-business solutions with emphasis on information systems and security. Feel free to follow any of my accounts to stay connected and see my growth and development :) 
+
+  <p align="left">
+      <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
+         <img alt="LinkedIn" title="Follow my LinkedIn account!" src="https://custom-icon-badges.demolab.com/badge/-FOLLOW%20-?&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=white&style=for-the-badge&labelColor=0A66C2"/></a> 
+   </p>
+
+
+
+#
 
 <details>
   <summary><h2>🛠️ Software & Tools 🛠️</h2></summary>
