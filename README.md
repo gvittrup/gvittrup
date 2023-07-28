@@ -10,11 +10,13 @@ I am a self-driven programmer and designer who recently graduated from the Unive
 
   <br><p align="center">
       <a href="https://www.linkedin.com/in/gvittrup/">
-         <img alt="LinkedIn" title="Follow my Instagram account!" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+         <img alt="LinkedIn" title="Follow my LinkedIn account!" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
       <a href="https://www.instagram.com/gunnar.vittrup/?next=%2F">
-         <img alt="LinkedIn" title="Follow my LinkedIn account!" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+         <img alt="Instagram" title="Follow my Instagram account!" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
       <a href="https://www.youtube.com/channel/UCjslMHkIk-woewCF6EJ84pQ">
-         <img alt="LinkedIn" title="Follow my YouTube account!" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a> 
+         <img alt="YouTube" title="Follow my YouTube account!" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a> 
+       <a href="https://gunnarvittrup.myportfolio.com">
+         <img alt="Portfolio" title="Check out my portfolio!" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
    </p>
 
 
