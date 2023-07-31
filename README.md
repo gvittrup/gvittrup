@@ -24,7 +24,7 @@ I am a self-driven programmer and designer who recently graduated from the Unive
 #
 
 <details>
-  <summary><h2>🛠️ Software & Tools 🛠️</h2></summary>
+  <summary><h2>🛠️ Technical Skills 🛠️</h2></summary>
     
   <h3 align="center">👨🏼‍💻 Languages</h3><br>
     
