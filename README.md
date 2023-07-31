@@ -26,7 +26,7 @@ I am a self-driven programmer and designer who recently graduated from the Unive
 <details>
   <summary><h2>🛠️ Software & Tools 🛠️</h2></summary>
     
-  <h3 align="center">👨🏼‍💻 Programming Languages</h3><br>
+  <h3 align="center">👨🏼‍💻 Languages</h3><br>
     
   <p align="center">
     <img align="center" alt="Bash" width="75px" height="75px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
