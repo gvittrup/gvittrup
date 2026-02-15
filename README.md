@@ -6,7 +6,7 @@
 
 <h2>Coding Journey</h2>
 
-I am a self-driven programmer and designer who recently graduated from the University of Idaho with a Bachelor of Science in Virtual Technology & Design and am now pursuing my second one in Computer Science at Boise State University. I've recently spent my free time working on various different projects all the way from game developing in Unity to building serverless web applications and deploying them through AWS! Once I graduate in the Spring of 2024, I plan to continue onward towards my Masters degree in Computer Science. My end goal is to one day own my own company that provides business-to-business solutions with emphasis on information systems and security. Feel free to follow any of my accounts to stay connected and see my growth and development :) 
+I am a self-driven programmer and designer with a degree in Computer Science from Boise State University and a degree in Virtual Technology & Design from University of Idaho! I am currently a Software Engineer at Micron, a student enrolled in a Masters of Science in Computer Science with emphasis in Machine Learning at Boise State, and I've recently spent my free time working on various different projects all the way from game developing in Unity to building serverless web applications and deploying them through AWS! My end goal is to one day own my own company that provides business-to-business solutions with emphasis on information systems and security. Feel free to follow any of my accounts to stay connected and see my growth and development :) 
 
   <br><p align="center">
       <a href="https://www.linkedin.com/in/gvittrup/">
